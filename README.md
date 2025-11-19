@@ -26,7 +26,6 @@ quick-quiz/
 
 1. **Clone the Repository**
    git clone https://github.com/esraozdemir6/quick-quiz.git
-   cd ProfileApp
 
 2. **Install Dependencies**
 npm install
